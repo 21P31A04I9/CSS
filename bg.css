@@ -1,0 +1,9 @@
+
+div{
+	height: 400px;
+	width: 400px;
+	border: 5px solid pink;
+	background-image: url('bubble2.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}

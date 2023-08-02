@@ -1,0 +1,6 @@
+.EXTERNAL{
+	border: 2px dashed green;
+	background-color: violet;
+	color: pink;
+	font-size: 50px
+}

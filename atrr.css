@@ -1,0 +1,14 @@
+input[type]{
+	color: green;
+}
+input[type="text"]{
+	color: red;
+}
+input[type="number"]{
+	color: blue;
+}
+img[src]{
+	border:dotted;
+	height: 200px;
+	width: 300px;
+}

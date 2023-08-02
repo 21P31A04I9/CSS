@@ -1,0 +1,49 @@
+img[src]{
+	height: 200px;
+	width: 200px;
+}
+a{
+	margin-right: 30px;
+}
+div{
+	background-color: white;
+	border: line
+}
+table,tr,td{
+	border: 1px solid;
+}
+table{
+	border-collapse: collapse;
+	width: 100%;
+}
+ul{
+	list-style-type: square;
+}
+ol ol{
+	list-style-type: upper-alpha;
+}
+.textarea{
+	height: 300px;
+	width: 100%;
+	background-color: #f8f8f8;
+}
+.code{
+	height: 200px;
+	width: 100%;
+	background-color: #f8f8f8;
+}
+form textarea{
+	height: 400px;
+	width: 20%;
+	box-sizing: border-box;
+	background-color: #f8f8f8;
+	border-radius: 4px;
+	border: 2px solid #ccc;
+}
+input{
+	background-color: #f8f8f8;
+	border: 2px solid #ccc;
+}
+form{
+	text-align: right;
+}
